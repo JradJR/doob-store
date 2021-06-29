@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/doob-store/static/css/main.5fbe977e.chunk.css",
+    "main.js": "/doob-store/static/js/main.40003b2f.chunk.js",
+    "main.js.map": "/doob-store/static/js/main.40003b2f.chunk.js.map",
+    "runtime-main.js": "/doob-store/static/js/runtime-main.d99b8112.js",
+    "runtime-main.js.map": "/doob-store/static/js/runtime-main.d99b8112.js.map",
+    "static/js/2.8ab007c5.chunk.js": "/doob-store/static/js/2.8ab007c5.chunk.js",
+    "static/js/2.8ab007c5.chunk.js.map": "/doob-store/static/js/2.8ab007c5.chunk.js.map",
+    "static/js/3.e741827a.chunk.js": "/doob-store/static/js/3.e741827a.chunk.js",
+    "static/js/3.e741827a.chunk.js.map": "/doob-store/static/js/3.e741827a.chunk.js.map",
+    "index.html": "/doob-store/index.html",
+    "static/css/main.5fbe977e.chunk.css.map": "/doob-store/static/css/main.5fbe977e.chunk.css.map",
+    "static/js/2.8ab007c5.chunk.js.LICENSE.txt": "/doob-store/static/js/2.8ab007c5.chunk.js.LICENSE.txt",
+    "static/media/landing-background.8b838eeb.png": "/doob-store/static/media/landing-background.8b838eeb.png",
+    "static/media/landing.7b5e8dc7.png": "/doob-store/static/media/landing.7b5e8dc7.png",
+    "static/media/portfolio-1.8bd1bc5f.jpg": "/doob-store/static/media/portfolio-1.8bd1bc5f.jpg",
+    "static/media/portfolio-2.3576b63b.jpg": "/doob-store/static/media/portfolio-2.3576b63b.jpg",
+    "static/media/portfolio-3.5ebf09e6.jpg": "/doob-store/static/media/portfolio-3.5ebf09e6.jpg",
+    "static/media/portfolio-4.21ba3893.jpg": "/doob-store/static/media/portfolio-4.21ba3893.jpg",
+    "static/media/portfolio-5.2521d27a.jpg": "/doob-store/static/media/portfolio-5.2521d27a.jpg",
+    "static/media/portfolio-6.a941a040.jpg": "/doob-store/static/media/portfolio-6.a941a040.jpg",
+    "static/media/portfolio-background.83f31a4c.png": "/doob-store/static/media/portfolio-background.83f31a4c.png",
+    "static/media/services.16297fcb.png": "/doob-store/static/media/services.16297fcb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d99b8112.js",
+    "static/js/2.8ab007c5.chunk.js",
+    "static/css/main.5fbe977e.chunk.css",
+    "static/js/main.40003b2f.chunk.js"
+  ]
+}
